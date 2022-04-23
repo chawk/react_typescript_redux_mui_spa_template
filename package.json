@@ -9,8 +9,18 @@
     "start": "webpack",
     "dev": "webpack serve --open"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chawk/react_typescript_redux_mui_spa_template.git"
+  },
+  "keywords": [
+    "react",
+    "mui",
+    "typescript",
+    "spa",
+    "redux"
+  ],
+  "author": "Chris Hawkes",
   "license": "ISC",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.1",
